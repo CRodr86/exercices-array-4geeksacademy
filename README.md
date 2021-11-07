@@ -3,9 +3,10 @@
 
 #### Ejercicios:
 ###### A partir de los siguientes arreglos:
-    let surnames = ["10", "juan", "@12", "null", "antonioPerezDelCarmen", "abcdefghtioiasoisdjads", "Manolo", "Perez", "Soledad"];
-    let excuses = ["OMG?", "What’s going on?", "How much is it?", "18", null, 'undefined', function(){}];
-    let = ["Jeferson", "Matilda", "R@fael", "1van", "Pep3", "Loquesea", "Fel1berto", "Pepit@", "D@M"];
+    let undefined;
+    const sequence = [10, 4, 8, 27.4, 500, null, undefined, 100, 25, 40, 31, 20, 17, 1890, 13, 42];
+    const letrasDNI = ['T', 'R', 'W', 'A', 'G', 'M', 'Y', 'F', 'P', 'D', 'X', 'B', 'N', 'J', 'Z', 'S', 'Q', 'V', 'H', 'L', 'C', 'K', 'E', 'T'];
+
 
 ###### Ejecutar lo siguiente:
 1. Crea una función que ordene de menor a mayor el array sequence;
